@@ -338,7 +338,7 @@ if (content.locals) {
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! D:\xampp\htdocs\xampp\nc\tutoriales\json-angular\src\styles.css */"./src/styles.css");
+module.exports = __webpack_require__(/*! D:\xampp\htdocs\xampp\nc\tutoriales\json_angular_8\src\styles.css */"./src/styles.css");
 
 
 /***/ })

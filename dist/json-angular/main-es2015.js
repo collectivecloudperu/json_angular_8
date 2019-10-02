@@ -32,7 +32,7 @@ webpackEmptyAsyncContext.id = "./$$_lazy_route_resource lazy recursive";
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-/* harmony default export */ __webpack_exports__["default"] = ("<table class=\"table\">\n  <thead class=\"thead-dark\">\n    <tr>\n      <th scope=\"col\">ID</th>\n      <th scope=\"col\">Nombre</th>\n      <th scope=\"col\">Stock</th>\n      <th scope=\"col\">Precio</th>\n      <th scope=\"col\">URL Amigable</th>\n      <th scope=\"col\">Imagen</th>\n      <th scope=\"col\">Fecha</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr *ngFor=\"let postre of Postres\">\n      <th scope=\"row\">{{postre.id}}</th>\n      <td>{{postre.nombre}}</td>\n      <td>{{postre.stock}}</td>\n      <td>{{postre.precio}}</td>\n      <td>{{postre.url}}</td>\n      <td>\n        <img src=\"assets/img/{{postre.img}}\" width=\"30px\" class=\"img-fluid\" alt=\"{{postre.nombre}}\">\n      </td>\n      <td>{{postre.fecha}}</td>\n    </tr>\n  </tbody>\n</table> ");
+/* harmony default export */ __webpack_exports__["default"] = ("<div class=\"table-responsive\">\n  <table class=\"table\">\n    <thead class=\"thead-dark\">\n      <tr>\n        <th scope=\"col\">ID</th>\n        <th scope=\"col\">Nombre</th>\n        <th scope=\"col\">Stock</th>\n        <th scope=\"col\">Precio</th>\n        <th scope=\"col\">URL Amigable</th>\n        <th scope=\"col\">Imagen</th>\n        <th scope=\"col\">Fecha</th>\n      </tr>\n    </thead>\n    <tbody>\n      <tr *ngFor=\"let postre of Postres\">\n        <th scope=\"row\">{{postre.id}}</th>\n        <td>{{postre.nombre}}</td>\n        <td>{{postre.stock}}</td>\n        <td>{{postre.precio}}</td>\n        <td>{{postre.url}}</td>\n        <td>\n          <img src=\"assets/img/{{postre.img}}\" width=\"30px\" class=\"img-fluid\" alt=\"{{postre.nombre}}\">\n        </td>\n        <td>{{postre.fecha}}</td>\n      </tr>\n    </tbody>\n  </table>\n</div> ");
 
 /***/ }),
 
@@ -426,7 +426,7 @@ Object(_angular_platform_browser_dynamic__WEBPACK_IMPORTED_MODULE_2__["platformB
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! D:\xampp\htdocs\xampp\nc\tutoriales\json-angular\src\main.ts */"./src/main.ts");
+module.exports = __webpack_require__(/*! D:\xampp\htdocs\xampp\nc\tutoriales\json_angular_8\src\main.ts */"./src/main.ts");
 
 
 /***/ })
