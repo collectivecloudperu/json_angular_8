@@ -1,4 +1,4 @@
-# como-leer-un-archivo-json-en-una-tabla-de-bootstrap-4-con-angular-8
+# Como Leer un archivo JSON en una Tabla de Bootstrap 4 con Angular 8
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.6.
 
